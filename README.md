@@ -90,7 +90,7 @@ socks5://user:pass@host:port
 💡 Usage:
 
 > You need to `cd` to the file after extract it
-> To run the bot, use the following command: `cd "bybit spaces-main/bybit spaces"; node meomundep`
+> To run the bot, use the following command: `cd "bybit spaces"; node meomundep`
 
 - **Join the support group:** [Join here](https://t.me/KeoAirDropFreeNe)
 - **Updates Channel:** [View channel](https://t.me/KeoAirDropFreeNee)
